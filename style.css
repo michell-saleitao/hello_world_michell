@@ -1,0 +1,50 @@
+Body {
+    background-color: rgb(28, 31, 28);
+}
+
+.capa {
+    margin-top: 128px;
+    text-align: center;
+    align-items: center;
+}
+
+img {   
+    width: 120px;
+    height: 80px;
+    align-items: ]center;
+}
+
+h1 {
+    font-family: 'Lucida Sans';
+    color: cadetblue;    
+}
+
+p {
+    font-family: 'Lucida Sans';
+    color: yellowgreen;    
+}
+
+a {
+    font-family: 'Lucida Sans';
+    color: tomato;     
+}
+
+.img {
+    display: flex;    
+    justify-content: center;
+    margin-top: 24px;
+}
+
+.img img {
+    width: 60px;
+    height: 40px;
+}
+
+.michell {
+    display: flex;    
+    justify-content: center;
+    margin-top: 6px;
+    color: yellow;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 12px;
+}
