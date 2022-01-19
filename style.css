@@ -1,3 +1,5 @@
+/*Estilização da aplicação*/
+
 Body {
     background-color: rgb(28, 31, 28);
 }
@@ -8,29 +10,29 @@ Body {
     align-items: center;
 }
 
-img {   
+img {
     width: 120px;
     height: 80px;
     align-items: ]center;
 }
 
-h1 {
+h1,
+p,
+a {
     font-family: 'Lucida Sans';
-    color: cadetblue;    
+    color: cadetblue;
 }
 
 p {
-    font-family: 'Lucida Sans';
-    color: yellowgreen;    
+    color: yellowgreen;
 }
 
 a {
-    font-family: 'Lucida Sans';
-    color: tomato;     
+    color: tomato;
 }
 
 .img {
-    display: flex;    
+    display: flex;
     justify-content: center;
     margin-top: 24px;
 }
@@ -41,7 +43,7 @@ a {
 }
 
 .michell {
-    display: flex;    
+    display: flex;
     justify-content: center;
     margin-top: 6px;
     color: yellow;
